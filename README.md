@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## App Info
+
+Quiz App Template, when the user finishes the quiz you can
+send him to a reward page/payments page. An admin page will
+be implemented so the admin can manage questions and styles in the front end.
+
 ## Getting Started
 
 First, run the development server:
